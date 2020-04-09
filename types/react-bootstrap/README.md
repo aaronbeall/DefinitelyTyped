@@ -2,7 +2,7 @@
 
 ## Stub for `v1.0.0`
 This is a stub types definition for react-bootstrap 1.0.0 (https://react-bootstrap.github.io/).
-react-bootstrap provides its own type definitions for 1.0.0 and above, so you don't need @types/react-boostrap installed!
+React-bootstrap provides its own type definitions for 1.0.0 and above, so you don't need @types/react-boostrap installed!
 
 ## Intended compatibilty for `v0.32`
 This library is intended for releases of react-bootstrap prior to `v1.0.0`, e.g. `v0.32.4`.
